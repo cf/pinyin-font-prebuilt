@@ -1,9 +1,14 @@
 # pinyin-font-prebuilt
 Repository with the latest build of Carter's Pinyin Ruby Fonts
 
-# Copyright Information
+
+# [Click here to get started](https://cf.github.io/pinyin-font-prebuilt/)
+
+
+
+## Copyright Information
 * All the fonts in this repo are derivatives of the Noto fonts found at https://github.com/googlefonts/noto-cjk, and are licensed under the SIL Open Font License 1.1. 
-* All code in this repo is licensed under the MIT license, and is Copyright © 2020 Carter Feldman.
+* All files in this repo that are not in the "fonts" directory are licensed under the MIT license, and are Copyright © 2020 Carter Feldman.
 
 ---
 ***The license below applies to ALL files that are not in the "fonts" directory!***
